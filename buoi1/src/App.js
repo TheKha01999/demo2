@@ -60,6 +60,7 @@ function App() {
   return (
     <div>
       <h3>Up len lan 2</h3>
+      <h3>Up len lan 7</h3>
       <h1>{x}</h1>
       <h1>name:{text}</h1>
       <h1>
